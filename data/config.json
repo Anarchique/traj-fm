@@ -1,0 +1,24 @@
+{
+  "radio": {
+    "name": "Traj-FM",
+    "frequency": "104.7 FM [À COMPLÉTER — fréquence réelle]",
+    "slogan": "[À COMPLÉTER — slogan de la radio]",
+    "accent": "#55ffff",
+    "discord": "[À COMPLÉTER — lien Discord]",
+    "tiktok": "[À COMPLÉTER — lien TikTok]",
+    "serverIp": "[À COMPLÉTER — IP du serveur]",
+    "tips": ["Réglage de l’antenne en redstone…", "Génération des ondes FM…", "Chargement des dédicaces…", "Un villageois vérifie la table de mixage…", "On accorde les noteblocks…"],
+    "splashes": ["Le creeper connaît la chanson !", "Aucune pioche requise.", "100 % ondes, 0 % gravier.", "Un jukebox dans chaque inventaire !", "C’est super efficace !"]
+  },
+  "schedule": [
+    {"time":"07:00–10:00","name":"Le Réveil en blocs","host":"[À COMPLÉTER — animateur·ice]","icon":"☀","description":"Le premier café de la journée."},
+    {"time":"12:00–13:00","name":"Pause Redstone","host":"[À COMPLÉTER — animateur·ice]","icon":"⌁","description":"Les dédicaces du midi."},
+    {"time":"17:00–19:00","name":"Le Retour du Mineur","host":"[À COMPLÉTER — animateur·ice]","icon":"⛏","description":"Les histoires de la journée."},
+    {"time":"20:00–22:00","name":"Nuit au Nether","host":"[À COMPLÉTER — animateur·ice]","icon":"☾","description":"Ambiance et blocs lumineux."}
+  ],
+  "hosts": [
+    {"name":"[À COMPLÉTER — pseudo]","role":"La voix du matin","bio":"Réveille Trajworld au lever du soleil."},
+    {"name":"[À COMPLÉTER — pseudo]","role":"La voix des dédicaces","bio":"Fait passer tes messages à l’antenne."},
+    {"name":"[À COMPLÉTER — pseudo]","role":"La voix de la nuit","bio":"Accompagne les mineurs nocturnes."}
+  ]
+}
